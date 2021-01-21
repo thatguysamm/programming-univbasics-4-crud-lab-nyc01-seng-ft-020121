@@ -45,3 +45,11 @@ def update_element_from_index(array, x, element)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array[4]= "totally"
 end
+
+
+def swag
+  x= 3
+  y= 4
+end
+
+swag
